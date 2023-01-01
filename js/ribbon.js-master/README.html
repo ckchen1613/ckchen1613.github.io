@@ -1,0 +1,33 @@
+<h1 id="ribbon-js"><a href="#ribbon-js" class="headerlink" title="ribbon.js"></a>ribbon.js</h1><blockquote>
+<p>Only 1kb javascript gist to generate a <strong>ribbon</strong> in your website with HTML5 canvas. Code from <a href="http://evanyou.me/">evanyou</a>.</p>
+</blockquote>
+<p><img src="https://travis-ci.org/hustcc/ribbon.js.svg?branch=master" alt="travis-ci"></p>
+<h2 id="1-usage"><a href="#1-usage" class="headerlink" title="1. usage"></a>1. usage</h2><p>Very easy and simple.</p>
+<p>insert the code below <code>between &lt;body&gt; and &lt;/body&gt;</code>.</p>
+<pre><code class="html">&lt;script src=&quot;dist/ribbon.min.js&quot;&gt;&lt;/script&gt;
+</code></pre>
+<p>Suggest before the tag <code>&lt;/body&gt;</code>, like below:</p>
+<pre><code class="html">&lt;html&gt;
+&lt;head&gt;
+    ...
+&lt;/head&gt;
+&lt;body&gt;
+    ...
+    ...
+    ...
+    &lt;script src=&quot;dist/ribbon.min.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<p><code>Please do not add the code in the &lt;head&gt; &lt;/head&gt;</code>. then ok!</p>
+<h2 id="2-config"><a href="#2-config" class="headerlink" title="2. config"></a>2. config</h2><ul>
+<li><strong><code>size</code></strong>: the size of ribbon, default: <strong><code>90</code></strong>.</li>
+<li><strong><code>alpha</code></strong>: the opacity of line (0 ~ 1), default: <strong><code>0.6</code></strong>.</li>
+<li><strong><code>zIndex</code></strong>: the index of z space, default: <strong><code>-1</code></strong>.</li>
+</ul>
+<p>Example:</p>
+<pre><code class="html">&lt;script type=&quot;text/javascript&quot; size=&quot;150&quot; alpha=&#39;0.3&#39; zIndex=&quot;-2&quot; src=&quot;dist/ribbon.min.js&quot;&gt;&lt;/script&gt;
+</code></pre>
+<p>Set the config on the script node <code>as a attribute</code>. all the config has the default value, you can choose to set any of them, or none of them.</p>
+<h2 id="3-preview"><a href="#3-preview" class="headerlink" title="3. preview"></a>3. preview</h2><p><img src="res/screenshot.png" alt="screenshot"></p>
+<h2 id="4-other"><a href="#4-other" class="headerlink" title="4. other"></a>4. other</h2><p>The project source comes from <a href="http://evanyou.me/">http://evanyou.me/</a>.</p>

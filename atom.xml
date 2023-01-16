@@ -3,11 +3,11 @@
   <title>CKchen&#39;s blog</title>
   
   <subtitle>Welcome</subtitle>
-  <link href="https://github.com/ckchen1613/atom.xml" rel="self"/>
+  <link href="https://github.com/ckchen1613.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/ckchen1613/"/>
+  <link href="https://github.com/ckchen1613.github.io/"/>
   <updated>2023-01-01T16:51:02.753Z</updated>
-  <id>https://github.com/ckchen1613/</id>
+  <id>https://github.com/ckchen1613.github.io/</id>
   
   <author>
     <name>CKchen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hi!</title>
-    <link href="https://github.com/ckchen1613/2023/01/01/hello-world/"/>
-    <id>https://github.com/ckchen1613/2023/01/01/hello-world/</id>
+    <link href="https://github.com/ckchen1613.github.io/2023/01/01/hello-world/"/>
+    <id>https://github.com/ckchen1613.github.io/2023/01/01/hello-world/</id>
     <published>2023-01-01T07:30:30.256Z</published>
     <updated>2023-01-01T16:51:02.753Z</updated>
     

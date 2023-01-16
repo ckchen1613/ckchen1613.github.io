@@ -1,7 +1,7 @@
-https://github.com/ckchen1613/2023/01/01/hello-world/
-https://github.com/ckchen1613/movie/index.html
-https://github.com/ckchen1613/music/index.html
-https://github.com/ckchen1613/categories/index.html
-https://github.com/ckchen1613/link/index.html
-https://github.com/ckchen1613/tags/index.html
-https://github.com/ckchen1613
+https://github.com/ckchen1613.github.io/2023/01/01/hello-world/
+https://github.com/ckchen1613.github.io/movie/index.html
+https://github.com/ckchen1613.github.io/music/index.html
+https://github.com/ckchen1613.github.io/categories/index.html
+https://github.com/ckchen1613.github.io/link/index.html
+https://github.com/ckchen1613.github.io/tags/index.html
+https://github.com/ckchen1613.github.io

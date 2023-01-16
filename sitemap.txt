@@ -1,7 +1,7 @@
-http://example.com/2023/01/01/hello-world/
-http://example.com/movie/index.html
-http://example.com/music/index.html
-http://example.com/categories/index.html
-http://example.com/link/index.html
-http://example.com/tags/index.html
-http://example.com/
+https://github.com/ckchen1613/2023/01/01/hello-world/
+https://github.com/ckchen1613/movie/index.html
+https://github.com/ckchen1613/music/index.html
+https://github.com/ckchen1613/categories/index.html
+https://github.com/ckchen1613/link/index.html
+https://github.com/ckchen1613/tags/index.html
+https://github.com/ckchen1613

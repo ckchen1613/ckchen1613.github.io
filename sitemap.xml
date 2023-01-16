@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ckchen1613.github.io/ckchen1613/2023/01/01/hello-world/</loc>
+    <loc>https://ckchen1613.github.io/2023/01/01/hello-world/</loc>
     
     <lastmod>2023-01-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ckchen1613.github.io/ckchen1613/movie/index.html</loc>
+    <loc>https://ckchen1613.github.io/movie/index.html</loc>
     
     <lastmod>2023-01-01</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://ckchen1613.github.io/ckchen1613/music/index.html</loc>
+    <loc>https://ckchen1613.github.io/music/index.html</loc>
     
     <lastmod>2023-01-01</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://ckchen1613.github.io/ckchen1613/categories/index.html</loc>
+    <loc>https://ckchen1613.github.io/categories/index.html</loc>
     
     <lastmod>2023-01-01</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://ckchen1613.github.io/ckchen1613/link/index.html</loc>
+    <loc>https://ckchen1613.github.io/link/index.html</loc>
     
     <lastmod>2023-01-01</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://ckchen1613.github.io/ckchen1613/tags/index.html</loc>
+    <loc>https://ckchen1613.github.io/tags/index.html</loc>
     
     <lastmod>2023-01-01</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>https://ckchen1613.github.io/ckchen1613</loc>
+    <loc>https://ckchen1613.github.io/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

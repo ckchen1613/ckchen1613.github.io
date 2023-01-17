@@ -6,7 +6,7 @@
   <link href="https://ckchen1613.github.io/atom.xml" rel="self"/>
   
   <link href="https://ckchen1613.github.io/"/>
-  <updated>2023-01-01T16:51:02.753Z</updated>
+  <updated>2023-01-17T04:27:43.270Z</updated>
   <id>https://ckchen1613.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hi!</title>
-    <link href="https://ckchen1613.github.io/2023/01/01/hello-world/"/>
-    <id>https://ckchen1613.github.io/2023/01/01/hello-world/</id>
+    <link href="https://ckchen1613.github.io/posts/%2024174.html"/>
+    <id>https://ckchen1613.github.io/posts/%2024174.html</id>
     <published>2023-01-01T07:30:30.256Z</published>
-    <updated>2023-01-01T16:51:02.753Z</updated>
+    <updated>2023-01-17T04:27:43.270Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to CKchen’s blog! This is my very first post. I really appreciate that you can visit this website. Hope you have a nice trip!</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     

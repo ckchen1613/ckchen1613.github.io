@@ -5,3 +5,4 @@ https://ckchen1613.github.io/categories/index.html
 https://ckchen1613.github.io/link/index.html
 https://ckchen1613.github.io/tags/index.html
 https://ckchen1613.github.io/
+https://ckchen1613.github.io/tags/first/

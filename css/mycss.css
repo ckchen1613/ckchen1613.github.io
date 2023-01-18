@@ -74,3 +74,8 @@
     
 }
 
+
+#drone .container {
+    overflow: hidden;
+}
+

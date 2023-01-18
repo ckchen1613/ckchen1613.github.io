@@ -1,40 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>CKchen&#39;s blog</title>
+  <title>孤岛的小屋</title>
   
-  <subtitle>Welcome</subtitle>
+  <subtitle>欢迎你</subtitle>
   <link href="https://ckchen1613.github.io/atom.xml" rel="self"/>
   
   <link href="https://ckchen1613.github.io/"/>
-  <updated>2023-01-17T17:47:06.611Z</updated>
+  <updated>2023-01-18T10:13:29.110Z</updated>
   <id>https://ckchen1613.github.io/</id>
   
   <author>
-    <name>CKchen</name>
+    <name>孤岛</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hi!</title>
+    <title>指引</title>
+    <link href="https://ckchen1613.github.io/posts/%2062612.html"/>
+    <id>https://ckchen1613.github.io/posts/%2062612.html</id>
+    <published>2023-01-18T09:10:28.000Z</published>
+    <updated>2023-01-18T10:13:29.110Z</updated>
+    
+    <content type="html"><![CDATA[<p>感谢你能来到这个网站，下面是本网站的一些功能和指引：</p><p>目前开启的互动功能有在线交流和评论</p><p>1.在线交流：</p><p>​    基于Dao Voice的在线交流平台，可在页面右下方按钮开启（本人21号晚8点到12点均在线，其余时间回复不及时请见谅，可留邮箱于机器人，看到会回嘿嘿）</p><p>2.留言功能：</p><p>​    基于来必力的留言平台，使用需先登录社交账号，目前支持QQ，微博，微信，百度登录。（来都来了不留点啥再走？）</p><p>3.更新日志：</p><p>本地搜索支持</p><p>访客信息展示</p><p>动态背景</p><p>兔年灯笼挂饰</p><p>首页打字特效</p><p>左下角fps显示</p><p>正在持续优化本网站，如果你有什么好的点子欢迎留言评论！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;感谢你能来到这个网站，下面是本网站的一些功能和指引：&lt;/p&gt;
+&lt;p&gt;目前开启的互动功能有在线交流和评论&lt;/p&gt;
+&lt;p&gt;1.在线交流：&lt;/p&gt;
+&lt;p&gt;​    基于Dao Voice的在线交流平台，可在页面右下方按钮开启（本人21号晚8点到12点均在线，其余时间回复不及时请见</summary>
+      
+    
+    
+    
+    
+    <category term="指引" scheme="https://ckchen1613.github.io/tags/%E6%8C%87%E5%BC%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一个博客!</title>
     <link href="https://ckchen1613.github.io/posts/%2024174.html"/>
     <id>https://ckchen1613.github.io/posts/%2024174.html</id>
     <published>2023-01-01T07:30:30.256Z</published>
-    <updated>2023-01-17T17:47:06.611Z</updated>
+    <updated>2023-01-18T10:14:36.880Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to CKchen’s blog! This is my very first post. I really appreciate that you can visit this website. Hope you have a nice trip!</p><p>The video below is a clip of my previous Sherlock Holmes mix-up. I sincerely hope you enjoy it.</p><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=726163930&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到CKchen孤岛的博客。这是我发布的第一篇文章，真的很开心你能访问这个网站，祝你有个愉快的体验。</p><p>下面的视频是我曾经做的福尔摩斯混剪视频，希望你能喜欢。</p><div align="center" class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=726163930&&page=1&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" high_quality="1" danmaku="1" allowfullscreen="true">     </iframe></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to CKchen’s blog! This is my very first post. I really appreciate that you can visit this website. Hope you have a nice trip!&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;欢迎来到CKchen孤岛的博客。这是我发布的第一篇文章，真的很开心你能访问这个网站，祝你有个愉快的体验。&lt;/p&gt;
+&lt;p&gt;下面的视频是我曾经做的福尔摩斯混剪视频，希望你能喜欢。&lt;/p&gt;
+&lt;div align=&quot;center&quot; class=&quot;aspect-ratio&quot;&gt;    </summary>
       
     
     
     
     
-    <category term="first" scheme="https://ckchen1613.github.io/tags/first/"/>
+    <category term="第一" scheme="https://ckchen1613.github.io/tags/%E7%AC%AC%E4%B8%80/"/>
     
   </entry>
   

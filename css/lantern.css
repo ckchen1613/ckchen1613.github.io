@@ -51,11 +51,11 @@
 /* 修改灯笼的字体 */
 
 .d-box .d1::after {
-    content: '兔年大吉';
+    content: '新年快乐';
 }
 
 .d-box1 .d1::after {
-    content: '心想事成';
+    content: '恭喜发财';
 }
 
 .d-box1 .d1,
@@ -231,7 +231,7 @@
     right: 51px;
     width: 75px;
     border-radius: 57px/89px;
-    background: url(https://tuchuang.voooe.cn/images/2023/01/01/e6f0b2a0d44bbfb2de864b7d25cfe0ff.webp) no-repeat;
+    background: url(https://cdn.staticaly.com/gh/ckchen1613/PictureBed@main/dragon.webp) no-repeat;
     background-position: center;
     background-size: 105px auto;
 }

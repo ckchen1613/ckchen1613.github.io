@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ckchen1613.github.io/posts/%2026745.html</loc>
+    <loc>https://ckchen1613.github.io/music/index.html</loc>
     
-    <lastmod>2023-09-01</lastmod>
+    <lastmod>2023-09-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://ckchen1613.github.io/posts/%2062612.html</loc>
     
-    <lastmod>2023-01-19</lastmod>
+    <lastmod>2023-09-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ckchen1613.github.io/posts/%2026745.html</loc>
+    
+    <lastmod>2023-09-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://ckchen1613.github.io/posts/%2024174.html</loc>
     
-    <lastmod>2023-01-18</lastmod>
+    <lastmod>2023-09-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://ckchen1613.github.io/movies/index.html</loc>
-    
-    <lastmod>2023-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ckchen1613.github.io/music/index.html</loc>
     
     <lastmod>2023-01-18</lastmod>
     
@@ -97,14 +97,14 @@
   </url>
   
   <url>
-    <loc>https://ckchen1613.github.io/tags/%E7%AC%AC%E4%B8%80/</loc>
+    <loc>https://ckchen1613.github.io/tags/%E6%8C%87%E5%BC%95/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ckchen1613.github.io/tags/%E6%8C%87%E5%BC%95/</loc>
+    <loc>https://ckchen1613.github.io/tags/%E7%AC%AC%E4%B8%80/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

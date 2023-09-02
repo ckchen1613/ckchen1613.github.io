@@ -1,0 +1,76 @@
+#全屏加载动画
+.loading-img {
+  background: url(https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/avatar.webp) no-repeat center center;
+  background-size: cover;
+}
+/* 信息卡片彩带 */
+.author_top:hover {
+  background: url(https://tuchuang.voooe.cn/images/2023/01/02/snow.gif);
+  background-size: cover;
+}
+
+/* 帧率检测 */
+#fps {
+  position: fixed;
+  /* 指定位置 */
+  left: 10px;
+  bottom: 10px;
+  z-index: 1919810;
+}
+[data-theme="light"] #fps {
+  background-color: rgba(255, 255, 255, 0.85);
+  backdrop-filter: var(--backdrop-filter);
+  padding: 4px;
+  border-radius: 4px;
+}
+[data-theme="dark"] #fps {
+  background-color: rgba(0, 0, 0, 0.72);
+  backdrop-filter: var(--backdrop-filter);
+  padding: 4px;
+  border-radius: 4px;
+}
+
+/* Twikoo 评论样式 */
+
+.tk-input .el-textarea__inner {
+    min-height: 120px !important;
+}
+
+#twikoo .OwO-body {
+    max-width: 100% !important;
+}
+
+#twikoo .OwO .OwO-body .OwO-items:nth-child(1),
+#twikoo .OwO .OwO-body .OwO-items:nth-child(4) {
+    max-height: 360px !important;
+}
+
+#twikoo .OwO-items li[title|=menhera] img {
+    width: 100% !important;
+    margin: 5px 10px;
+}
+
+.tk-comment .tk-owo-emotion[alt*=menhera] {
+    width: 300px !important;
+}
+
+.tk-comment .vemoji[alt|=menhera],
+.tk-comment .tk-owo-emotion[alt*=menhera] {
+    max-width: 300px !important;
+    max-height: 300px !important;
+    margin: 8px 1px;
+    display: block !important;
+}
+
+@media screen and (max-width: 768px) {
+    .tk-comment .vemoji[alt|=menhera], .tk-comment .tk-owo-emotion[alt*=menhera] {
+        max-width: calc(100% - 30px) !important;
+        max-height: calc(100% - 30px) !important;
+    }
+    .OwO .OwO-body .OwO-items-image .OwO-item[title*=menhera] {
+        max-width: calc(50% - 10px);
+        box-sizing: border-box;
+    }
+    
+}
+
